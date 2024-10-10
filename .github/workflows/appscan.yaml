@@ -16,4 +16,4 @@ jobs:
           static_analysis_only: true
           asoc_key: ${{secrets.ASOC_KEY}}
           asoc_secret: ${{secrets.ASOC_SECRET}}
-          application_id: 1b020796-b8a9-4fae-b665-bdb9cd14fd31
+          application_id: d9831770-ac9b-4c0b-a632-8fdc62c367ce
